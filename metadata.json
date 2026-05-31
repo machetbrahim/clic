@@ -1,0 +1,6 @@
+{
+  "name": "Drive URL Shortener & Tracker",
+  "description": "An elegant URL shortener and click dynamic tracking dashboard optimized for Google Drive URLs, including support for direct download rendering and PDF formatting outputs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
